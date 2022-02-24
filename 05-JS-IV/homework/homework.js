@@ -171,7 +171,7 @@ function agregarMetodoCalculoDescuento(producto) {
   };
   return producto;
 }
-
+//se puede reemplazar el this(señala el objeto"producto".)//
 // No modificar nada debajo de esta línea
 // --------------------------------
 
